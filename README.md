@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualizer
 This project is a frontend application developed using React, aimed at providing a visual representation of various sorting algorithms. The application allows users to observe the sorting algorithms in real-time, with adjustable array size and algorithm speed options.
-
+Deployed at https://sorting-visualizer-yash.onrender.com
 ## Features
 - Supports the following sorting algorithms:
   - Insertion sort
